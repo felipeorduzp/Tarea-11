@@ -1,0 +1,25 @@
+Entidad: Reporte
+Campos principales:
+
+id
+ciudadano_id
+categoria (ambiental, seguridad, servicios públicos, etc.)
+descripcion
+fecha
+
+Propósito:  
+Almacenar los reportes de incidencias o situaciones registradas por los ciudadanos, que servirán como base para el seguimiento comunitario.
+
+Entidad: Usuario
+Campos principales:
+
+id
+nombre_usuario
+rol (ciudadano, coordinador, veedor)
+correo
+fecha_registro
+
+Propósito:  
+Identificar a los participantes de la plataforma, diferenciando sus roles y garantizando que cada acción (registrar, revisar, coordinar) esté asociada a un usuario real.
+
+Con este modelo, la relación principal sería que cada reporte está vinculado a un usuario. Esto permite organizar la información, dar trazabilidad y mantener transparencia en la participación.

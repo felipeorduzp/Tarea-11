@@ -1,0 +1,11 @@
+Formulario para crear una causa: en la parte superior, con campos de título, descripción y fecha. Un botón “Crear causa” permitiría guardar la información.
+
+Vista de causas disponibles: debajo del formulario, se mostraría una lista de causas registradas, cada una con su título y breve descripción.
+
+Botón para apoyar una causa: junto a cada causa habría un botón “Apoyar” que los usuarios pueden pulsar para sumar su participación.
+
+Contador de apoyos: al lado del botón aparecería un número que indica cuántas personas han apoyado esa causa.
+
+Diseño claro y sencillo: sin mostrar datos privados de los usuarios, solo la información pública de las causas y el número de apoyos.
+
+De esta forma, la interfaz facilita tanto la creación de nuevas causas como la participación ciudadana en las ya existentes, manteniendo la transparencia y la simplicidad.
